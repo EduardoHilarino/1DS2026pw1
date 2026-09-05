@@ -1,0 +1,16 @@
+E:\2026 - 1ºAno\Aulas Técnicas\Programação e Algoritmos\Aulas práticas\Aulas de C#\Aula 1\Solução_Menu_AMS\Projeto_Menu_AMS\obj\Debug\Projeto_Menu_AMS.csproj.AssemblyReference.cache
+E:\2026 - 1ºAno\Aulas Técnicas\Programação e Algoritmos\Aulas práticas\Aulas de C#\Aula 1\Solução_Menu_AMS\Projeto_Menu_AMS\obj\Debug\Projeto_Menu_AMS.csproj.CoreCompileInputs.cache
+E:\2026 - 1ºAno\Aulas Técnicas\Programação e Algoritmos\Aulas práticas\Aulas de C#\Aula 1\Solução_Menu_AMS\Projeto_Menu_AMS\bin\Debug\Projeto_Menu_AMS.exe.config
+E:\2026 - 1ºAno\Aulas Técnicas\Programação e Algoritmos\Aulas práticas\Aulas de C#\Aula 1\Solução_Menu_AMS\Projeto_Menu_AMS\bin\Debug\Projeto_Menu_AMS.exe
+E:\2026 - 1ºAno\Aulas Técnicas\Programação e Algoritmos\Aulas práticas\Aulas de C#\Aula 1\Solução_Menu_AMS\Projeto_Menu_AMS\bin\Debug\Projeto_Menu_AMS.pdb
+E:\2026 - 1ºAno\Aulas Técnicas\Programação e Algoritmos\Aulas práticas\Aulas de C#\Aula 1\Solução_Menu_AMS\Projeto_Menu_AMS\obj\Debug\Projeto_Menu_AMS.exe
+E:\2026 - 1ºAno\Aulas Técnicas\Programação e Algoritmos\Aulas práticas\Aulas de C#\Aula 1\Solução_Menu_AMS\Projeto_Menu_AMS\obj\Debug\Projeto_Menu_AMS.pdb
+E:\2026 - 1ºAno\Aulas Técnicas\Programação e Algoritmos\Aulas práticas\Aulas de C#\Aula 1\Solução_Menu_AMS\Projeto_Menu_AMS\obj\Debug\Projeto_Menu_AMS.exe.config
+D:\2026 - 1ºAno\Aulas Técnicas\Programação e Algoritmos\Aulas práticas\Aulas de C#\Aula 1\Solução_Menu_AMS\Projeto_Menu_AMS\bin\Debug\Projeto_Menu_AMS.exe.config
+D:\2026 - 1ºAno\Aulas Técnicas\Programação e Algoritmos\Aulas práticas\Aulas de C#\Aula 1\Solução_Menu_AMS\Projeto_Menu_AMS\bin\Debug\Projeto_Menu_AMS.exe
+D:\2026 - 1ºAno\Aulas Técnicas\Programação e Algoritmos\Aulas práticas\Aulas de C#\Aula 1\Solução_Menu_AMS\Projeto_Menu_AMS\bin\Debug\Projeto_Menu_AMS.pdb
+D:\2026 - 1ºAno\Aulas Técnicas\Programação e Algoritmos\Aulas práticas\Aulas de C#\Aula 1\Solução_Menu_AMS\Projeto_Menu_AMS\obj\Debug\Projeto_Menu_AMS.csproj.AssemblyReference.cache
+D:\2026 - 1ºAno\Aulas Técnicas\Programação e Algoritmos\Aulas práticas\Aulas de C#\Aula 1\Solução_Menu_AMS\Projeto_Menu_AMS\obj\Debug\Projeto_Menu_AMS.exe.config
+D:\2026 - 1ºAno\Aulas Técnicas\Programação e Algoritmos\Aulas práticas\Aulas de C#\Aula 1\Solução_Menu_AMS\Projeto_Menu_AMS\obj\Debug\Projeto_Menu_AMS.csproj.CoreCompileInputs.cache
+D:\2026 - 1ºAno\Aulas Técnicas\Programação e Algoritmos\Aulas práticas\Aulas de C#\Aula 1\Solução_Menu_AMS\Projeto_Menu_AMS\obj\Debug\Projeto_Menu_AMS.exe
+D:\2026 - 1ºAno\Aulas Técnicas\Programação e Algoritmos\Aulas práticas\Aulas de C#\Aula 1\Solução_Menu_AMS\Projeto_Menu_AMS\obj\Debug\Projeto_Menu_AMS.pdb
